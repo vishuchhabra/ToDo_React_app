@@ -60,7 +60,7 @@ class App extends React.Component{
          
        </script>
        <img src={logo} width="300" height ="200" className="logo" alt="This is pic of one Car"/>
-       <h1 className="app-title">LCO ToDo APP</h1>
+       <h1 className="app-title">Vishu's ToDo APP</h1>
        
        <p className="app-tit">FOR DELETING , CLICK <span> <button  className="b-t" onClick="">Delete</button></span></p>
        
